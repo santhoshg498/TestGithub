@@ -1,10 +1,9 @@
 package Info.Git.SampleGitHub;
 
-public class Test {
+public class Check {
 
 	public static void main(String[] args) {
-		System.out.println("Git Repository Remote");
-		
+		System.out.println("I added one check");
 	}
 
 }
